@@ -108,9 +108,14 @@ MAC Reciver 1 (Noviantie & Dionysius) : 24:6F:28:02:C3:1C
 MAC Receiver 2 (Hesti & Nabila) : 24:0A:C4:C6:06:54
 
 MAC Receiver 3 (Cantika & Razan) : 30:AE:A4:7A:8F:B8
+
+Pada Receiver 3, hasilnya akan seperti gambar di bawah ini
+
 ![C_1](https://user-images.githubusercontent.com/121161133/210084728-29bef717-ba18-451f-aff7-3b6b3539066e.png)
 
           9. Matikan salah satu board Receiver, dokumentasikasikan hasilnya, dan buatlah analisisnya.
+Pada Receiver 3, hasilnya akan seperti gambar di bawah ini
+
 ![C2](https://user-images.githubusercontent.com/121161133/210083608-2b7e5fe1-d099-47ea-a0d2-e0e62df9f0bc.png)
 
           10. Buatlah koneksi menggunakan semua board ESP32 yang ada dikelas, dengan menambahkan Receiver ke dalam jaringan secara bertahap, 
